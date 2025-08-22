@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ali Ansari</h1>
+<h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ali Ansari</h1>
 
 ### :man_technologist: About Me
 - 🎓 Final-year **B.Tech (ECE)** student at **GL Bajaj Institute of Technology (AKTU)**, graduating **May 2025**.
