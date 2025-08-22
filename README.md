@@ -1,50 +1,49 @@
-<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suman Ghosh</h1>
+<h1 align="center">Assalamu Alaikum, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ali Ansari</h1>
 
-### :woman_technologist: About Me 
-- 👩🏻‍💻 Pronouns: She/Her
-- 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [Roku](roku.com).
-- 📋 I've previously worked as a Software Engineer at [CRED](cred.club) and [Navi](navi.com).
-- 🎒 I've done almost 6-7 internships in frontend primarily.
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. 
-- 🧭 I love exploring and working both in frontend and backend.
-- 🎭 I love speaking at events and connecting with people.
-- 📫 How to reach me: Check social links below.
-- 📺 Watch my talks on youtube:
-    - [**Podcast with Fraz** : How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
-    - [**Talk at Devfest Bangalore**: Secret Web Performance  Metric that no one would tell you](https://youtu.be/5I25RVKHHjQ?si=BmN-nMFumkmaK-aI)
-    - [**Talk at React Bangalore Meetup** : INP | The Newest Core Web Vital](https://www.youtube.com/watch?v=JSYjSHfBzPg)
-    - [Swiggy Clone using HTML, CSS](https://www.youtube.com/live/G4Y9N1Z-IUE?si=18jB9zzPiRQEpFwf)
-  
+### :man_technologist: About Me
+- 🎓 Final-year **B.Tech (ECE)** student at **GL Bajaj Institute of Technology (AKTU)**, graduating **May 2025**.
+- 💻 Passionate about **Full-Stack Development**, **IoT Systems**, and **Web Performance Engineering**.
+- 💼 Internship: **Frontend Developer at Zeilony (Startup)** – built responsive UI, optimized performance, boosted engagement by 20%.
+- 🛠 Projects: 
+  - **Study Nexus** – MERN stack platform with authentication, payments, dashboards, and Cloudinary integration.
+  - **IoT Monitoring System** – ESP-NOW + Firebase-based system for real-time sensor data (DHT11, MPU6050, DS18B20, turbidity, pH).
+- 🧠 Currently deep-diving into **system design**, **self-hosted deployments**, and **scalable API architecture**.
+- 🤝 Open to **collaborations**, **internship/full-time roles**, and **hackathon projects**.
+- 📫 **Reach me:** [aliansari8179@gmail.com](mailto:aliansari8179@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aliansari8179)
 
-### :hammer_and_wrench: Languages and Tools 
+---
+
+### :hammer_and_wrench: Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>  
 
-### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)  
+---
 
-### :coffee: Hit Me Up Here
+### :fire: GitHub Streaks
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliansari8179)](https://git.io/streak-stats)  
+
+---
+
+### :coffee: Connect With Me
 <p align="center">
-	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
-       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
-    </a>
-    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
-        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ghoshsuman0129/">
-        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.instagram.com/suman.ghosts/">
-        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
-    </a>
+  <a href="https://github.com/aliansari8179">
+    <img src="https://img.shields.io/badge/Check_My_Repos-2088FF?style=for-the-badge&logo=github&logoColor=fff"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aliansari8179/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+  </a>
+  <a href="mailto:aliansari8179@gmail.com">
+    <img src="https://img.shields.io/badge/Reach_Me_via_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/>
+  </a>
 </p>
-
-
